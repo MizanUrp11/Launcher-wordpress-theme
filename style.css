@@ -1,0 +1,31 @@
+/*
+Theme Name: launcher
+Theme URI: https://wordpress.org/themes/launcher/
+Author: Freelancer mizan
+Author URI: https://wordpress.org/
+Description: This is the trial of building launcher theme for wordpress
+Requires at least: 4.7
+Requires PHP: 5.2.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: launcher
+Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+#fh5co-logo a{
+    font-size: 48px;
+}
+#fh5co-logo{
+    margin-top: 50px !important;
+
+}
+
+.error-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
